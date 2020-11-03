@@ -1,0 +1,65 @@
+﻿Index,"Region, subregion, country or area*",Notes,Location code,ISO3 Alpha-code,Location Type Code,Location Type Name,Parent Location code,WORLD Code,Subregion Code,Subregion Name,SDG region Code,SDG region Name,Geographic regionCode,Geographic regionName,"More developed regions
+901","Less developed regions
+902","Least developed countries
+941","Less developed regions, excluding least developed countries
+934","Less developed regions, excluding China
+948","Land-Locked Developing Countries (LLDC)
+1636","Small Island Developing States (SIDS)
+1637","High-income Countries
+1503","Middle-income Countries
+1517","Upper-middle-income Countries
+1502","Lower-middle-income Countries
+1501","Low-income Countries
+1500","No income group available
+1518",Max(HIV) for males,Max(HIV) for females,Max(HIV) for both sexes,Year for max(HIV) for both sexes,Estimates of mortality age pattern,Projection of life expectancy at birth,"Countries or areas with a population of less than 90,000 by mid-2019"
+117,Afghanistan,,4,AFG,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,941,,948,1636,,,,,,1500,,,,,,,,
+91,Armenia,,51,ARM,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,1636,,,1517,1502,,,,0.28,0.12,0.19,2008,,,
+92,Azerbaijan,5,31,AZE,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,1636,,,1517,1502,,,,0.15,0.08,0.12,2017,,,
+93,Bahrain,,48,BHR,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,1637,1503,,,,,,0.08,0.06,0.07,2017,,,
+118,Bangladesh,,50,BGD,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,941,,948,,,,1517,,1501,,,0.02,0.01,0.01,2017,,,
+119,Bhutan,,64,BTN,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,941,,948,1636,,,1517,,1501,,,,,,,,,
+137,Brunei Darussalam,,96,BRN,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,1503,,,,,,,,,,,,
+138,Cambodia,,116,KHM,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,941,,948,,,,1517,,1501,,,2.36,1.25,1.73,1998,,Yes,
+128,China,9,156,CHN,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,,,,,1517,1502,,,,0.12,0.06,0.04,2007.00,,,
+129,"China, Hong Kong SAR",10,344,HKG,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,,,,1503,,,,,,,,,,,,
+130,"China, Macao SAR",11,446,MAC,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,,,,1503,,,,,,,,,,,,
+131,"China, Taiwan Province of China",12,158,TWN,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,,,,1503,,,,,,,,,,,,
+94,Cyprus,6,196,CYP,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,0.17,0.05,0.11,2017,,,
+132,Dem. People's Republic of Korea,,408,PRK,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,,,,,1500,,,,,,,,
+95,Georgia,7,268,GEO,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.68,0.17,0.43,2017,,,
+120,India,,356,IND,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.59,0.39,0.50,1999,,,
+139,Indonesia,,360,IDN,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.54,0.31,0.42,2017,,,
+121,Iran (Islamic Republic of),,364,IRN,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,0.16,0.06,0.11,2016,,,
+96,Iraq,,368,IRQ,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,,,,,,,
+97,Israel,,376,ISR,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,,,,,,,
+133,Japan,,392,JPN,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,901,,,,,,,1503,,,,,,0.07,0.01,0.04,2017,,,
+98,Jordan,,400,JOR,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,,,,,,,
+111,Kazakhstan,,398,KAZ,4,Country/Area,5500,   900,5500,Central Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,1636,,,1517,1502,,,,0.31,0.14,0.23,2017,,,
+99,Kuwait,,414,KWT,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,0.09,0.04,0.06,2017,,,
+112,Kyrgyzstan,,417,KGZ,4,Country/Area,5500,   900,5500,Central Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,1636,,,1517,,1501,,,0.26,0.14,0.20,2017,,,
+140,Lao People's Democratic Republic,,418,LAO,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,941,,948,1636,,,1517,,1501,,,0.33,0.26,0.30,2012,,,
+100,Lebanon,,422,LBN,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,0.08,0.02,0.05,2017,,,
+141,Malaysia,13,458,MYS,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,0.84,0.17,0.50,2001,,,
+122,Maldives,,462,MDV,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,,1637,,1517,1502,,,,,,,,,,
+134,Mongolia,,496,MNG,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,1636,,,1517,,1501,,,0.05,0.02,0.03,2012,,,
+142,Myanmar,,104,MMR,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,941,,948,,,,1517,,1501,,,1.12,0.53,0.77,2007,,Yes,
+123,Nepal,,524,NPL,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,941,,948,1636,,,,,,1500,,0.33,0.15,0.24,2005,,,
+101,Oman,,512,OMN,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,,,,,,,
+124,Pakistan,,586,PAK,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.17,0.08,0.13,2017,,,
+143,Philippines,,608,PHL,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.22,0.02,0.12,2017,,,
+102,Qatar,,634,QAT,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,0.17,0.08,0.12,2017,,,
+135,Republic of Korea,,410,KOR,4,Country/Area,906,   900,906,Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,1503,,,,,,,,,,,,
+103,Saudi Arabia,,682,SAU,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,,,,,,,
+144,Singapore,,702,SGP,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,1637,1503,,,,,,0.44,0.05,0.25,2017,,,
+125,Sri Lanka,,144,LKA,4,Country/Area,5501,   900,5501,Southern Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.05,0.02,0.04,2007,,,
+104,State of Palestine,8,275,PSE,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,,,,,,,
+105,Syrian Arab Republic,,760,SYR,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,,,,1500,,,,,,,,
+113,Tajikistan,,762,TJK,4,Country/Area,5500,   900,5500,Central Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,1636,,,,,,1500,,0.37,0.14,0.26,2017,,,
+145,Thailand,,764,THA,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,3.03,1.26,2.00,1997,,Yes,
+146,Timor-Leste,,626,TLS,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,941,,948,,1637,,1517,,1501,,,,,,,,,
+106,Turkey,,792,TUR,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,,1517,1502,,,,,,,,,,
+114,Turkmenistan,,795,TKM,4,Country/Area,5500,   900,5500,Central Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,1636,,,1517,1502,,,,,,,,,,
+107,United Arab Emirates,,784,ARE,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,,934,948,,,1503,,,,,,,,,,,,
+115,Uzbekistan,,860,UZB,4,Country/Area,5500,   900,5500,Central Asia,921,Central and Southern Asia,935,Asia,,902,,934,948,1636,,,1517,,1501,,,0.34,0.18,0.26,2017,,,
+147,Viet Nam,,704,VNM,4,Country/Area,920,   900,920,South-Eastern Asia,1832,Eastern and South-Eastern Asia,935,Asia,,902,,934,948,,,,1517,,1501,,,0.53,0.25,0.37,2010,,,
+108,Yemen,,887,YEM,4,Country/Area,922,   900,922,Western Asia,1833,Northern Africa and Western Asia,935,Asia,,902,941,,948,,,,,,,1500,,,,,,,,
